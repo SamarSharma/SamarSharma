@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- My name is Samar Sharma. I am driven and passionate about security analysis and data analysis. I enjoy working with technology and analyzing and solving complex problems. Im have a bachelor's degree in Computer Information Systems from Georgia State University
+
+<h2>👨‍💻 IT Projects:</h2>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
