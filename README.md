@@ -1,6 +1,6 @@
 <h1>Hi, I'm Samar Sharma! </h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2> About Samar:</h2>
 
 - My name is Samar Sharma. I am driven and passionate about security analysis and data analysis. I enjoy working with technology and analyzing and solving complex problems. Im have a bachelor's degree in Computer Information Systems from Georgia State University
 
