@@ -11,6 +11,9 @@
   - [File Permissions in Linux](https://github.com/SamarSharma/File-Permissions-in-Linux)
 - <b>Add and manage users with Linux commands)</b>
   - [Add and manage users with Linux commands](https://github.com/SamarSharma/Add-and-manage-users-with-Linux-commands)
+- <b>Apply Filters to SQL Queries)</b>
+  - [Apply Filters to-SQL Queries](https://github.com/SamarSharma/Apply-Filters-to-SQL-Queries)
+
 
 <h2>📺 Certifcations</h2>
 
