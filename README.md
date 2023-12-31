@@ -2,7 +2,8 @@
 
 <h2> About Samar:</h2>
 
-- My name is Samar Sharma. I am driven and passionate about security analysis and data analysis. I enjoy working with technology and analyzing and solving complex problems. Im have a bachelor's degree in Computer Information Systems from Georgia State University
+- My name is Samar Sharma. I am driven and passionate about security analysis and data analysis. I enjoy working with technology and analyzing and solving complex problems. I have a bachelor's degree in Computer Information Systems from Georgia State University.
+- Email: ssharma40@gmail.com
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -13,6 +14,6 @@
 
 <h2>📺 Certifcations</h2>
 
-- [Google CyberSecurity Certifcation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google CyberSecurity Certifcation](https://i.imgur.com/Lq8QDq6.png)
 
 
