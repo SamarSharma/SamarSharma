@@ -9,8 +9,8 @@
 
 - <b>File Permissions in Linux</b>
   - [File Permissions in Linux](https://github.com/SamarSharma/File-Permissions-in-Linux)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Add and manage users with Linux commands)</b>
+  - [Add and manage users with Linux commands](https://github.com/SamarSharma/Add-and-manage-users-with-Linux-commands)
 
 <h2>📺 Certifcations</h2>
 
